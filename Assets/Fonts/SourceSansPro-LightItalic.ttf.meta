@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e8e6dfffcbe604a4d997696599126316
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Sans Pro Light
+  fontNames:
+  - Source Sans Pro Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d138ae0d0951199489e7cc8203c6186f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
